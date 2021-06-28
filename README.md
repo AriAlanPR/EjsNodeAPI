@@ -1,8 +1,1 @@
- _______
-< hello >
- -------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+Node js express built sample project using ejs as view template engine.
